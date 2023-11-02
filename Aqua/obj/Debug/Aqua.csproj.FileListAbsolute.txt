@@ -1,0 +1,9 @@
+C:\Users\vinni\Source\Repos\Aqua\Aqua\bin\Debug\Aqua.exe.config
+C:\Users\vinni\Source\Repos\Aqua\Aqua\bin\Debug\Aqua.exe
+C:\Users\vinni\Source\Repos\Aqua\Aqua\bin\Debug\Aqua.pdb
+C:\Users\vinni\Source\Repos\Aqua\Aqua\obj\Debug\Aqua.csproj.AssemblyReference.cache
+C:\Users\vinni\Source\Repos\Aqua\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\Users\vinni\Source\Repos\Aqua\Aqua\obj\Debug\Aqua.csproj.GenerateResource.cache
+C:\Users\vinni\Source\Repos\Aqua\Aqua\obj\Debug\Aqua.csproj.CoreCompileInputs.cache
+C:\Users\vinni\Source\Repos\Aqua\Aqua\obj\Debug\Aqua.exe
+C:\Users\vinni\Source\Repos\Aqua\Aqua\obj\Debug\Aqua.pdb
